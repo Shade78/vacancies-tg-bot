@@ -1,4 +1,3 @@
 Телеграм бот для поиска вакансий через API «Работа России»
 
-telegraf.js
-undici
+telegraf.js, undici
